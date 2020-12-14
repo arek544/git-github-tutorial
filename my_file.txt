@@ -1,1 +1,1 @@
-"This is version from master." 
+This is version after merge
