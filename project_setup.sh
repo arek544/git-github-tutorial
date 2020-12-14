@@ -3,18 +3,16 @@
 pip install jupyterlab
 pip install virtualenv
 
-PROJECT_NAME="git_tutorial" 
-
 # Windows
-# PATH2PYTHON="C:\Users\Arkadiusz\AppData\Local\Programs\Python\Python39\python.exe" 
+# PATH2PYTHON="C:\Users\User\AppData\Local\Programs\Python\Python39\python.exe" 
 PATH2PYTHON=$1
 
 # Linux
 # PATH2PYTHON="/usr/bin/python3.9 
 
 # Create directory
-mkdir $PROJECT_NAME
-cd $PROJECT_NAME
+git clone https://github.com/arek544/git_jupyter_tutorial.git
+cd git_jupyter_tutorial
 
 # Create virtual environment
 virtualenv -p $PATH2PYTHON venv
