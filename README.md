@@ -1,6 +1,6 @@
 # Git and GitHub Tutorial
 
-## Before Tutorial
+## Prerequisites
 - if you don't have a python, [install it](https://www.python.org/downloads/)
 > during installation select *add Python to PATH* option
 - if you don't have a git, [install it](https://git-scm.com/downloads)
