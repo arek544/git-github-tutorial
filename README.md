@@ -23,4 +23,4 @@ In case of problems with `project_setup.sh` ...
 
 ![](https://media1.giphy.com/media/FspLvJQlQACXu/200w.webp?cid=ecf05e4755nkuvb3bl0kajmm3vkahb843605dy9a6uandieq&rid=200w.webp)
 
-... you can manualy paste each line into git bash. 
+... you can manualy execute each line in git bash. 
