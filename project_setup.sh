@@ -11,7 +11,7 @@ PATH2PYTHON=$1
 # PATH2PYTHON="/usr/bin/python3.9 
 
 # Create directory
-git clone https://github.com/arek544/git_jupyter_tutorial.git
+git clone https://github.com/arek544/git_github_tutorial.git
 cd git_jupyter_tutorial
 
 # Create virtual environment
