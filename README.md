@@ -1,4 +1,4 @@
-# Jupyter Notebook, Git and GitHub Tutorial
+# Git and GitHub Tutorial
 
 ## Before Tutorial
 - if you don't have a python, [install it](https://www.python.org/downloads/)
